@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Survival Assistant</title>
+    <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+
+    <div class="header">
+        <h1>AI Survival Assistant</h1>
+        <p>Powered by Google Gemini</p>
+        <button id="settings-toggle" title="Settings">⚙️</button>
+    </div>
+
+    <!-- Top Quick Actions (Matching Screenshot) -->
+    <div class="quick-buttons top-actions">
+        <button class="quick-btn" data-prompt="Draft a professional email that explains my value in an AI-driven workplace.">📩 Draft Email</button>
+        <button class="quick-btn" data-prompt="Analyze this data for trends and insights that can help me save time at work: ">📊 Analyze Data</button>
+        <button class="quick-btn" data-prompt="What are the best career moves I can make right now to stay ahead of AI?">💼 Career Help</button>
+        <button class="quick-btn" data-prompt="Help me automate a repetitive task I do every day. What are my options?">⚡ Automate Task</button>
+    </div>
+
+    <div id="settings-panel">
+        <h3>Google Gemini API Key</h3>
+        <input type="password" id="api-key-input" placeholder="Paste your API key here">
+        <button id="save-api-key">Save</button>
+    </div>
+
+    <div id="chat-container">
+        <div class="welcome-message">
+            <h3>👋 Welcome to Your AI Assistant!</h3>
+            <p>Ask me anything about your work, career, or how to use AI tools.</p>
+            <p style="font-size: 12px; margin-top: 10px; opacity: 0.8;">💡 <b>Tip:</b> Use quick actions above or type your own question below.</p>
+        </div>
+    </div>
+
+    <div id="typing-indicator">
+        <p><i>AI is thinking...</i></p>
+    </div>
+
+    <!-- Bottom "Wow" Action -->
+    <div class="quick-buttons bottom-actions">
+        <button id="linkedin-btn" class="quick-btn linkedin-special">🎯 Analyze LinkedIn / Resume</button>
+    </div>
+
+    <div class="input-container">
+        <textarea id="user-input" placeholder="Ask me anything..." rows="1"></textarea>
+        <button id="send-btn" title="Send">Send</button>
+    </div>
+
+    <script src="popup.js"></script>
+
+</body>
+</html>
