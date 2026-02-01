@@ -32,6 +32,14 @@ The integration with the **Gemini API** allows for real-time, intelligent career
 - `Dockerfile`: Instructions for the Google Cloud Run deployment.
 - `main.py`: The engine that serves the web experience.
 
+## 🚀 What's Next?
+The AI Survival Kit is just getting started. Following this competition, I will be:
+*   **Public Release:** Launching the platform to a wider audience to help more workers in transition.
+*   **Direct Download:** Implementing a direct download feature for the **Chrome Extension Assistant** so users who complete the app assessment will take home a
+working AI assistant to further implement AI with their thoughts, work, and normal life with one click.
+*   **LinkedIn Analyzer:** Developing a Gemini-powered tool to help users optimize their LinkedIn profiles for the AI-driven job market.
+
+
 ## 👤 About the Author
 I’m a builder and operator who saw a gap in how we talk about AI. Most people obsess over the what — I focus on the who: the people whose jobs are changing fast.
 I built the AI Survival Kit to help anyone move from AI-threatened to AI-empowered with practical guidance.
