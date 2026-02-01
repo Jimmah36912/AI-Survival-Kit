@@ -25,7 +25,7 @@ I chose to centralize my entire stack within the Google ecosystem to avoid "subs
 *   **Cloud Console & SDK:** My centralized "Mission Control" for the entire project.
 
 ## ❤️ Why I Love the Google Ecosystem
-What I appreciate most isn't just the power of the models—it's the **velocity**. The "Single Pane of Glass" experience across Google AI Studio and Cloud Run allowed me to stop worrying about the "plumbing" of the app and focus 100% on the human mission. Google builds for the person who wants to move fast and solve real-world problems without the infrastructure overhead.
+What I appreciate most isn't just the power of the models—it's the **velocity**. The "Single Pane of Glass" experience across Google AI Studio and Cloud Run allowed me to stop worrying about the app's "plumbing" and focus 100% on the human mission. Google builds for the person who wants to move fast and solve real-world problems without the infrastructure overhead.
 
 ## 🚀 What's Next?
 *   **Public Release:** Launching to a wider audience.
