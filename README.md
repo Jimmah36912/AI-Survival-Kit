@@ -43,7 +43,7 @@ working AI assistant to further implement AI with their thoughts, work, and norm
 ## 👤 About the Author
 I’m a builder and operator who saw a gap in how we talk about AI. Most people obsess over the what — I focus on the who: the people whose jobs are changing fast.
 I built the AI Survival Kit to help anyone move from AI-threatened to AI-empowered with practical guidance.
-It’s also my own build-in-public journey of learning Google Cloud Run and Gemini and turning that learning into a lifeline for others.
+It’s also my own built-in-public journey of learning Google Cloud Run, Gemini, and turning that learning into a lifeline for others.
 ---
 *Created with ❤️ for the Google AI Build Your Portfolio Challenge.*
 0 commit comments
