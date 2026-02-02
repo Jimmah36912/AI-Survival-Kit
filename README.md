@@ -18,11 +18,17 @@ When it finally went live, I just sat there like… *Holy sh*t. This is real.* T
 
 ## 🛠️ The Google Power Stack
 I chose to centralize my entire stack within the Google ecosystem to avoid "subscription fatigue" and focus on impact:
-*   **Gemini 1.0 Pro API:** The intelligent "brain" providing real-time coaching.
-*   **Google AI Studio:** My prototyping lab for prompt engineering.
-*   **Google Cloud Run:** The scalable, containerized home for the platform.
-*   **Artifact Registry & Cloud Build:** Managing the DevOps and deployment pipeline.
-*   **Cloud Console & SDK:** My centralized "Mission Control" for the entire project.
+*   **Gemini 1.5 Pro API:** The intelligent "brain" providing real-time career coaching and strategic guidance.
+*   **Google AI Studio:** My prototyping lab for prompt engineering and model testing.
+*   **Gemini Image Generation:** Even the cover image was created using Gemini. I took design concepts from AI collaborators, crafted the prompt,
+*    and let Google's AI bring the vision to life. It felt right that a project about AI empowerment should be visually represented by AI itself.
+*   **Google Cloud Run:** The serverless home for my Flask backend.
+*   **Google Cloud Artifact Registry:** Secure container management.
+*   **Google Cloud Build:** The automated deployment engine.
+*   **Google Cloud Console & SDK:** My centralized dashboard and CLI.
+*   **Google Fonts:** Utilizing 'Inter' and 'Roboto' for a clean UI.
+*   **Google Chrome Extension API (V3):** Putting AI directly into the browser.
+
 
 ## ❤️ Why I Love the Google Ecosystem
 What I appreciate most isn't just the power of the models—it's the **velocity**. The "Single Pane of Glass" experience across Google AI Studio and Cloud Run allowed me to stop worrying about the app's "plumbing" and focus 100% on the human mission. Google builds for the person who wants to move fast and solve real-world problems without the infrastructure overhead.
