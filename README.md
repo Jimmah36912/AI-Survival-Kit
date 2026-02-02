@@ -31,6 +31,6 @@ What I appreciate most isn't just the power of the models—it's the **velocity*
 *   **Public Release:** Launching to a wider audience.
 *   **Direct Download:** One-click install for the Chrome Extension.
 *   **LinkedIn Analyzer:** A Gemini-powered tool to optimize profiles for the AI-driven job market.
-
+*   **Backend API Integration:** Restoring full Gemini API connectivity after resolving Google Cloud authentication.
 ---
 *Created with ❤️ for the Google AI Build Your Portfolio Challenge.*
